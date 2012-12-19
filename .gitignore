@@ -1,0 +1,10 @@
+
+*.xcscheme
+
+*.xcuserstate
+
+*.xcworkspacedata
+
+*.DS_Store
+
+TextEdit.xcodeproj/xcuserdata/okocsis.xcuserdatad/xcschemes/xcschememanagement.plist
